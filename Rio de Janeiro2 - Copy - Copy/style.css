@@ -1,0 +1,94 @@
+html, body{
+    background-color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#hero{
+    background-image: url("e413c950-c31d-11e8-9739-0242ac110006.webp");
+    background-size: auto;
+    color: white;
+    font-size: xx-large;
+    padding: 0px 0 300px 0;
+    background-color: aliceblue;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+}
+
+.dois {
+    
+    display: flex;
+    background-color: aliceblue;
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 100px;
+    justify-content: space-between;
+
+}
+#bangu {
+    font-size: medium;
+    text-align: center;
+   display: block;
+    margin-top: 10px;
+
+    color: #E1751A;
+}
+
+#tijuca {
+    text-align: center;
+    display: block;
+        margin-top: 10px;
+    color: #E1751A;
+
+
+}
+
+#paraiba {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+
+    color: #E1751A;
+
+}
+#b1 {
+    border-radius: 300px;
+    border: #E1751A dotted 4px;
+}
+
+#p2 {
+    border-radius: 300px;
+    border: #E1751A dotted 4px;
+}
+
+#t3 {
+    border-radius: 300px;
+    border: #E1751A dotted 4px;
+}
+
+.mini{
+    color:#326384 ;
+}
+
+.avatar{
+    width: 150px;
+    justify-content: right;
+    border-radius: 20px;
+}
+.card{
+    font-family:'Montserrat', sans-serif;
+    text-align:center;
+    margin: 100px auto 0 auto;
+    width: 450px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe ; 
+    border-radius: 20px;
+
+
+
+}
